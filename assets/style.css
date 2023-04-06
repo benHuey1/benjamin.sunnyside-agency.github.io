@@ -344,7 +344,7 @@ a {
 }
 
 .head_page {
-  background-image: url(/images/desktop/image-header.jpg);
+  background-image: url(./images/desktop/image-header.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -408,13 +408,13 @@ a {
   display: flex;
 }
 .four-squares .transform_brand_egg {
-  background-image: url(/images/desktop/image-transform.jpg);
+  background-image: url(./images/desktop/image-transform.jpg);
 }
 .four-squares .transform_brand {
   gap: 20px;
 }
 .four-squares .stand_out_cup {
-  background-image: url(/images/desktop/image-stand-out.jpg);
+  background-image: url(./images/desktop/image-stand-out.jpg);
 }
 .four-squares .stand_out {
   gap: 20px;
@@ -436,10 +436,10 @@ a {
 }
 
 .two-squares .graphic_design {
-  background-image: url(/images/desktop/image-graphic-design.jpg);
+  background-image: url(./images/desktop/image-graphic-design.jpg);
 }
 .two-squares .photography {
-  background-image: url(/images/desktop/image-photography.jpg);
+  background-image: url(./images/desktop/image-photography.jpg);
 }
 
 .client_testimonials {
@@ -488,16 +488,16 @@ a {
   flex-direction: row;
 }
 .image_gallery .milk {
-  background-image: url(/images/desktop/image-gallery-milkbottles.jpg);
+  background-image: url(./images/desktop/image-gallery-milkbottles.jpg);
 }
 .image_gallery .orange {
-  background-image: url(/images/desktop/image-gallery-orange.jpg);
+  background-image: url(./images/desktop/image-gallery-orange.jpg);
 }
 .image_gallery .cone {
-  background-image: url(/images/desktop/image-gallery-cone.jpg);
+  background-image: url(./images/desktop/image-gallery-cone.jpg);
 }
 .image_gallery .sugar {
-  background-image: url(/images/desktop/image-gallery-sugarcubes.jpg);
+  background-image: url(./images/desktop/image-gallery-sugarcubes.jpg);
 }
 
 .image_gallery > * {
